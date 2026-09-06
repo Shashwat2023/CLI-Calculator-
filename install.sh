@@ -1,12 +1,12 @@
 #!/bin/bash
 
-echo "Compiling ABC..."
+echo "Compiling CLI Calculator..."
 
-g++ cal.cpp -o abc
+g++ cal.cpp -o clic
 
-echo "Installing ABC..."
+echo "Installing CLI Calculator..."
 
-sudo install -Dm755 abc /usr/local/bin/abc
+sudo install -Dm755 clic /usr/local/bin/clic
 
 echo "Installation complete!"
-echo "You can now run the program using: abc"
+echo "You can now run the program using: clic"
