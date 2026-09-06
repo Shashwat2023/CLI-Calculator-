@@ -1,2 +1,2 @@
 # CLI-Calculator-
-This is a terminal based calculator that 
+This is a terminal based calculator.
